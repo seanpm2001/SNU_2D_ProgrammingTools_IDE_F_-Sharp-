@@ -44,13 +44,19 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 *.vtt linguist-language=WebVTT
-# ZAP Source file
-*.zap linguist-detectable=true
-*.zap linguist-documentation=false
-*.zap linguist-language=ZAP
-*.xzap linguist-detectable=true
-*.xzap linguist-documentation=false
-*.xzap linguist-language=ZAP
+# F# Source file
+*.fs linguist-detectable=true
+*.fs linguist-documentation=false
+*.fs linguist-language=F#
+*.fsi linguist-detectable=true
+*.fsi linguist-documentation=false
+*.fsi linguist-language=F#
+*.fsx linguist-detectable=true
+*.fsx linguist-documentation=false
+*.fsx linguist-language=F#
+*.fsscript linguist-detectable=true
+*.fsscript linguist-documentation=false
+*.fsscript linguist-language=F#
 # SubRip subtitle file
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
@@ -171,7 +177,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Saturday, September 3rd at 7:26 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Sunday, September 11th at 3:51 pm PST)
+# Line count (including blank lines and compiler line): 184
 # End of script
